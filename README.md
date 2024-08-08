@@ -21,7 +21,7 @@
 
 <br>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mancillamaranon?igsh=Ym85b2dob2liZGl2) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/share/HPmCu2Whxm1gcUdu/?mibextid=qi2Omg) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](linkedin.com/in/erick-mateo-mancilla-marañon-439bb7240) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+59161621982) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:matro0646@gmail.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mancillamaranon?igsh=Ym85b2dob2liZGl2) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/share/HPmCu2Whxm1gcUdu/?mibextid=qi2Omg) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)]([linkedin.com/in/erick-mateo-mancilla-marañon-439bb7240](https://www.linkedin.com/in/erick-mateo-mancilla-mara%C3%B1on-439bb7240/)) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+59161621982) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:matro0646@gmail.com)
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/sequelize.png"/> 
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/gitlab.png"/> <img src="https://img.icons8.com/color/48/000000/digital-ocean.png"/>
 
