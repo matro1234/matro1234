@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img alt="erickmateo.com" src="./assets/oh_hi_there.png" width="300"/>
+    <img alt="erickmateo.com" src="./mateo.jpg" width="300"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Erick Mateo Mancilla Marañon</h1>
 
