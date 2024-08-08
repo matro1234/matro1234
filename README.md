@@ -13,7 +13,7 @@
 - 🌐 Created front-end interfaces using React and TypeScript
 - 📚 Knowledge of additional technologies like Spring Boot, .NET Core, FastAPI, Laravel, Yii2, and Angular
 - 🕹️ Working on a 3D online multiplayer game using Godot Engine and Node.js for my final year project
-- 🌟 Fun Facts: 🍕 🏉 🏏 🎥 🚞
+- 🌟 Fun Facts: 🍕 🕺🏻 🎥 🏋️
 
 <br>
 
