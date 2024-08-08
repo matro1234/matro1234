@@ -21,7 +21,7 @@
 
 <br>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mancillamaranon?igsh=Ym85b2dob2liZGl2) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/share/HPmCu2Whxm1gcUdu/?mibextid=qi2Omg) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)] (https://www.linkedin.com/in/erick-mateo-mancilla-marañon) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+59161621982) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:matro0646@gmail.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mancillamaranon?igsh=Ym85b2dob2liZGl2) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/share/HPmCu2Whxm1gcUdu/?mibextid=qi2Omg) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/erick-mateo-mancilla-marañon) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+59161621982) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:matro0646@gmail.com)
 
 <br>
 
