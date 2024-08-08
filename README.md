@@ -13,7 +13,7 @@
 - 🌐 Created front-end interfaces using React and TypeScript
 - 📚 Knowledge of additional technologies like Spring Boot, .NET Core, FastAPI, Laravel, Yii2, and Angular
 - 🕹️ Working on a 3D online multiplayer game using Godot Engine and Node.js for my final year project
-- 🌟 Fun Facts: 🍕 🕺🏻 🎥 🏋️
+- 🌟 Fun Facts: 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/erickmateo/) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/erickmateo) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/erickmateo/) [![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/erickmateo) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+123456789) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:erickmateo@example.com)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/mancillamaranon?igsh=Ym85b2dob2liZGl2) [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/share/HPmCu2Whxm1gcUdu/?mibextid=qi2Omg) [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](linkedin.com/in/erick-mateo-mancilla-marañon-439bb7240) [![Phone](https://img.icons8.com/fluency/48/000000/phone-disconnected.png)](tel:+59161621982) [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:matro0646@gmail.com)
 
 <br>
 
